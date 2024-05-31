@@ -1,4 +1,4 @@
-Title: Python Game Development with Pygame (Card Matching Game)s
+Title: Python Game Development with Pygame (Card Matching Game)
 
 Description:
 
